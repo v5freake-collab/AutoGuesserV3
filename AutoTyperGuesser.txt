@@ -1,4 +1,3 @@
--- This script was generated using the MoonVeil Obfuscator v1.4.5 [https://moonveil.cc]
 
 local Pmb,nb,vTa,Sk=pairs,getmetatable,bit32.bxor,type
 local SL,icb,xTa,zbb,Cx,uJa,zy,Ihb,mp,DW,ZR,Leb,Cea,sz;
@@ -33753,3 +33752,4 @@ repeat
         end)(_sa[1],SL(_sa[2][1],1,_sa[2][2]))),94728+-30291
     end
 until ggb==71361-30169
+
